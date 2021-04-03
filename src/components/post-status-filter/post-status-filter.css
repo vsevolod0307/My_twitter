@@ -1,0 +1,12 @@
+.btn-filter{
+    border: none;
+    border-radius: 5px;
+}
+.btn-filter:hover{
+    background-color: rgb(19, 155, 165);
+    color: #fff;
+}
+.btn-active{
+    background-color: rgb(19, 155, 165);
+    color: #fff;
+}
